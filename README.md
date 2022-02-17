@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [NFT preview card](https://your-live-site-url.com)
+- Live Site URL: [NFT preview card](https://iranadryan.github.io/fe-mentor-nft-preview-card/)
 
 ### Built with
 
